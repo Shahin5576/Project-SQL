@@ -1,6 +1,6 @@
 # Sql-Querires
-# Primary key:
-# Table customers field customer_id
+## Primary key:
+## Table customers field customer_id
 # Table products field product_id
 # Table order_statuses field order_status_id
 # Table shippers field shipper_id
